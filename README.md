@@ -5,7 +5,7 @@
 
 This project is the Final Project for the course. 
 The goal is to prepare tidy data that can be used for later analysis. 
-Source file is `run_analysis.R` and resulting file is `tidyDataset.csv` 
+Source file is `run_analysis.R` and resulting file is `tidyDataset.txt` 
 
 *** 
 

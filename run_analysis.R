@@ -76,7 +76,7 @@
 	
 	tidyDataset <-aggregate(. ~Subject_number + Activity, FinalDataset, mean)
 	tidyDataset <-tidyDataset[order(tidyDataset$Subject_number,tidyDataset$Activity),]
-	write.table(tidyDataset, file = "./tidyDataset.csv",row.name=FALSE,quote = FALSE)
+	write.table(tidyDataset, file = "./tidyDataset.txt",row.name=FALSE,quote = FALSE)
 	
 	
 	
