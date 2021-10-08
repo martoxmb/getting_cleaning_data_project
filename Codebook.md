@@ -1,7 +1,5 @@
----
-title: "Codebook"
-output: pdf_document
----
+
+# Codebook #
 ***
 ## Getting and Cleaning Data Project ##
 ***
